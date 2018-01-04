@@ -23,13 +23,13 @@
 ##############################################################################
 
 {
-    'name': 'Make MRP orders from POS',
+    'name': 'Ordenes MRP desde POS',
     'version': '10.0.2.0.0',
-    'summary': """Launch Automatic MRP Orders After Selling Through POS.""",
-    'description': """Launch automatic MRP orders after selling through POS""",
-    'author': 'Cybrosys Techno Solutions',
+    'summary': """Genera ordenes de produccion desde POS.""",
+    'description': """Genera ordenes de produccion desde POS""",
+    'author': 'BIOSIS',
     'company': 'Cybrosys Techno Solutions',
-    'website': 'http://www.cybrosys.com',
+    'website': 'http://www.biosis.com.pe',
     'category': 'Point of Sale',
     'depends': ['point_of_sale', 'mrp', 'stock'],
     'license': 'LGPL-3',
